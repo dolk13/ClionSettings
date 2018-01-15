@@ -26,6 +26,7 @@
     <option name="GETTERS_PREFIX" value="Get" />
     <option name="SETTERS_PREFIX" value="Set" />
     <option name="GENERATE_COMPARISON_OPERATORS_USE_STD_TIE" value="true" />
+    <option name="INTRODUCE_CONST_VARS" value="true" />
   </Objective-C>
   <Objective-C-extensions>
     <file>
