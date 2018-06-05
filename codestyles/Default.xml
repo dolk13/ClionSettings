@@ -21,6 +21,7 @@
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
     <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
+    <option name="INSERT_OVERRIDE" value="false" />
     <option name="FIELDS_PREFIX" value="m_" />
     <option name="FIELDS_SUFFIX" value="m_" />
     <option name="GETTERS_PREFIX" value="Get" />
